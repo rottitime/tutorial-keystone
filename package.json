@@ -1,0 +1,23 @@
+{
+  "name": "tutorial-keystone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rottitime/tutorial-keystone.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rottitime/tutorial-keystone/issues"
+  },
+  "homepage": "https://github.com/rottitime/tutorial-keystone#readme",
+  "dependencies": {
+    "@keystone-6/core": "^2.1.0",
+    "typescript": "^4.7.4"
+  }
+}
