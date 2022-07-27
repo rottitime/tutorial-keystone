@@ -1,9 +1,0 @@
-{
-  "/_app": "pages/_app.js",
-  "/_error": "pages/_error.js",
-  "/_document": "pages/_document.js",
-  "/api/__keystone_api_build": "pages/api/__keystone_api_build.js",
-  "/users/create": "pages/users/create.js",
-  "/users/[id]": "pages/users/[id].js",
-  "/users": "pages/users.js"
-}
